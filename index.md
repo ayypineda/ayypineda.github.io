@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/battleship_ss.png)
 
 ---
-### [CSU Trail | CSCI 325](project1)
+### [CSU Trail | CSCI 325](project2)
 
 ![Project 2 Thumbnail Name](images/csu_trail_ss.png)
 
 ---
-### [Applied Networking | CSCI 332](project1)
+### [Applied Networking | CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/buddy_chat_ss.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
