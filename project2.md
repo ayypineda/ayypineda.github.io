@@ -11,7 +11,7 @@ CSU Trail
 
 ## Project description
 
-This is a version of the text-based retro game "The Oregon Trail" where the user will lead their team to victory by encountering problems and obstacles and be forced to make decisions favorable to the group in order to reach the final destination with at least one player "alive". 
+This is a version of the text-based retro game "The Oregon Trail" where the user will lead their team to victory by encountering problems and obstacles and be forced to make decisions favorable to the group in order to reach the final destination with at least one player "alive". It makes use of JavaFX to give the user a simple GUI for buttons as opposed to text=input and console entry. 
 
 ## How to compile and run the program
 
