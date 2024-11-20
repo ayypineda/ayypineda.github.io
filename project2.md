@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+CSU Trail
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 325 Object Oriented Programming 
+-   **Grade:** 95
+-   **Language(s):** Java, JavaFX
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is a version of the text-based retro game "The Oregon Trail" where the user will lead their team to victory by encountering problems and obstacles and be forced to make decisions favorable to the group in order to reach the final destination with at least one player "alive". 
 
 ## How to compile and run the program
 
