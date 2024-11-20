@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+BuddyChat
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 332 Applied Networking
+-   **Grade:** 90
+-   **Language(s):** Microsoft Visual Basic 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is a messaging system that uses a basic GUI and allows two seperate users with BuddyChat to send each other messages using UDP. The users set an IP and a listening port in order to dial in the "frequency" or "mailbox" and can then establish communication. The program can log a conversation and denote the IP of the user sending the messages. 
 
 ## How to compile and run the program
 
