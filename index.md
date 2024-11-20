@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/battleship_ss.png)
 
 ---
-### [CSU Trail | CSCI 315](project1)
+### [CSU Trail | CSCI 325](project1)
 
 ![Project 2 Thumbnail Name](images/csu_trail_ss.png)
 
