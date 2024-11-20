@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Applied Networking | CSCI 332](project1)
 
-![Project 3 Thumbnail Name](images/buddy_chat_ss,png)
+![Project 3 Thumbnail Name](images/buddy_chat_ss.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
