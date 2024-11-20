@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Battleship
 ===============
 
 -   **Class:** CSCI 235 Procedural Programming
