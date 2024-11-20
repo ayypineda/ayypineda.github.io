@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/csu_trail_ss.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Applied Networking | CSCI 332](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
