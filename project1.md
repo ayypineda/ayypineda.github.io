@@ -31,21 +31,21 @@ g++ -Wextra -o battleship battleship.cpp
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The game uses the console and input is done through text. The user will select a randomly arranged fleet until it is accepted by the user via input and the game will start. The user will enter a letter immediately followed by a number(Ex. 'A1') in order to place a "shot" and submit the input as their guess for the location of the enemy ships. The enemy AI will also also attempt to sink the player's ships. The user's successful strikes will be noted with an X while hits on the user's fleet will be reflected as lowercase versions of the respective ships. This will continue until all enemy ships are sunk or all enemy ships are sunk, triggering a win/lose event. 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The game will start with the user approving a fleet arrangement (see Fig 1), and this will be their game board. The user will enter a letter and number pair according to what is on the grid to fire on the enemy fleet, with misses represented 'O' and hits represented as 'X'(see Fig 2). If the entire user's fleet is sunk, the game will display a lose message, as well as a win message if the enemy fleet is defeated(see Fig 3). If the user enters a letter or number that exists outside the bounds of the grid(Ex. "Z11") the game will give an error message and continue to ask for proper input.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/battleship1.png)  
 Fig 1. The start screen and fleet selection menu
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/battleship_2.png)  
 Fig 2. Example of shot after coordinate entered
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/battleship_lose.png)  
 Fig 3. Image of screen when all ships are sunk
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 4. Feedback when an error occurs.
+![screenshot](images/battleship_error.png)  
+Fig 4. Feedback for bad/unallowed input
 
 ## 3. Additional Considerations
 
