@@ -15,33 +15,32 @@ This is a version of the text-based retro game "The Oregon Trail" where the user
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile/run the project:
 
-```bash
-cd ./project
-python setup.py
+```Install Java(latest LTS and include JavaFX) and Netbeans(latest versions) and open the folder in Netbeans as a project. Click the main Java file(CSU Trail) and navigate to "Run" and click.
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The game employs the use of a GUI(Graphic User Interface) to navigate the game menu and make decisions and take actions. This is achieved using JavaFX. Much like the Oregon Trail, one has a team that they should try to keep alive as they reach the destination while navigating problems and obstacles.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The user will click "Let's Start" to advance to the game at the start menu (see Fig 1). The user will then be faced with choices(see Fig 2). Some of these choices will advance the user to the end of the game, but some will damage the team's collective health(see Fig 3). If the user reaches the Hunter Center with health above 0, the user is congratulated and shown they have reaches the Hunter Center (see Fig 4).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/csu_trail_start.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/csu_trail_1.png)  
+Fig 2. Choices are presented
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/csu_trail_2.png)  
+Fig 3. Some decisions will deal damage to the group
+
+![screenshot](images/csu_trail_won.png)  
+Fig 4. The game is won
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+A supported version of Java, preferrably an LTS, is needed to run this and MUST include JavaFX during installation. The package is considered the project, but one can navigate to the java file and click run on NetBeans and it will start. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
