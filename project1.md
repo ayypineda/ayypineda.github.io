@@ -49,8 +49,6 @@ Fig 4. Feedback for bad/unallowed input
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The game can run successfully granted that all the correct packages and .DLLs are installed. One wll need MinGW and the files as is installed locally on the folder so that it can use the header files if compiling. 
 
 [Back to Portfolio](./)
