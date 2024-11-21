@@ -35,7 +35,7 @@ Fig 2. Choices are presented
 ![screenshot](images/csu_trail_2.png)  
 Fig 3. Some decisions will deal damage to the group
 
-![screenshot](images/csu_trail_won.png)  
+![screenshot](images/csu_trail_win.png)  
 Fig 4. The game is won
 
 ## 3. Additional Considerations
