@@ -17,14 +17,14 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/csu_trail_ss.png)
 
 ---
-### [Applied Networking | CSCI 332](project3)
+### [BuddyChat | CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/buddy_chat_ss.png)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Columnar Cipher Encoder/Decoder | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/columnar_cipher_ss.png)
 
 ---
 
