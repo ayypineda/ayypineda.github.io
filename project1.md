@@ -15,9 +15,8 @@ This is a text-based version of the popular strategy board game, Battleship, tha
 
 ## How to compile and run the program
 
-How to run the project:
-
-```[Windows CMD/Bash/Terminal/Console]
+How to run the project(Windows CMD/Bash/Terminal/Console)
+```
 cd .\FinalProject
 .\battleship
 ```
