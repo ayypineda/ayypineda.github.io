@@ -17,7 +17,8 @@ This is a version of the text-based retro game "The Oregon Trail" where the user
 
 How to compile/run the project:
 
-```Install Java(latest LTS and include JavaFX) and Netbeans(latest versions) and open the folder in Netbeans as a project. Click the main Java file(CSU Trail) and navigate to "Run" and click.
+```
+Install Java(latest LTS and include JavaFX) and Netbeans(latest versions) and open the folder in Netbeans as a project. Click the main Java file(CSU Trail) and navigate to "Run" and click.
 ```
 
 ## UI Design
