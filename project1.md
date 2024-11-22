@@ -47,7 +47,7 @@ Fig 3. Image of screen when all ships are sunk
 ![screenshot](images/battleship_error.png)  
 Fig 4. Feedback for bad/unallowed input
 
-## 3. Additional Considerations
+## Additional Considerations
 
 The game can run successfully granted that all the correct packages and .DLLs are installed. One wll need MinGW and the files as is installed locally on the folder so that it can use the header files if compiling. 
 
