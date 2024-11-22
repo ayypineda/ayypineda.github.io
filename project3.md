@@ -6,8 +6,8 @@ BuddyChat
 -   **Class:** CSCI 332 Applied Networking
 -   **Grade:** 90
 -   **Language(s):** Microsoft Visual Basic 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [ayypineda](https://github.com/ayypineda/buddychat)  
+    (Please [email me](mailto:apineda@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
