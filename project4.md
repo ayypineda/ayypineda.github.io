@@ -6,8 +6,8 @@ Columnar Cipher Coder
 -   **Class:** CSCI 452
 -   **Grade:** 90
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [ayypineda/columnarcipher](https://github.com/ayypineda/columnarcipher)  
+    (Please [email me](mailto:apineda@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
