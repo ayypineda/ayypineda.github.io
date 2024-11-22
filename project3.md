@@ -15,33 +15,32 @@ This is a messaging system that uses a basic GUI and allows two seperate users w
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile or run the project.
 
-```bash
-cd ./project
-python setup.py
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Using Microsoft Visual Basic, install the folder containing the files to machine and open as a project
+Click "Build" and "Build Solution"
+Name and run the compiled executable 
+```
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+BuddyChat uses UDP to establish communication between two seperate machines on the same network, whether wireless or Ethernet. This is achieved by setting the IP Address of the intended recipient. 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+First, the recipient will give their Ethernet IP Address to the sender and set a listening port. This can be achieved by connecting to the same router or belonging to the same workgroup cluster, and using the native terminal to determine IP configurations, such as "ipconfig" command in Command Prompt (see Fig 1). The user will set the IP Address to the intended recipient and set the listening port to the "buddy"(other BuddyChat client on seperate machine) listening port and vice versa (see Fig 2). If the program is used without IP Address or listening port settings, an error dialogue will appear (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/ipconfig.png)  
+Fig 1. use of ipconfig and correct settings index to use for client
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/buddy_chat_ss.png)  
+Fig 2. example of client configuration and successful conversation
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/buddy_chat_error.png)  
+Fig 3. error message 
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Both clients of BuddyChat must be connected to the same network, whether Ethernet or wireless. They can even exist on two seperate machines, whether physical or virtual. It is important to avoid using a listening port that is used by default to avoid collisions.  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
