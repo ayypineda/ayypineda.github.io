@@ -38,7 +38,7 @@ Fig 2. example of client configuration and successful conversation
 ![screenshot](images/buddy_chat_error.png)  
 Fig 3. error message 
 
-## 3. Additional Considerations
+## Additional Considerations
 
 Both clients of BuddyChat must be connected to the same network, whether Ethernet or wireless. They can even exist on two seperate machines, whether physical or virtual. It is important to avoid using a listening port that is used by default to avoid collisions.  
 
