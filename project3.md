@@ -42,6 +42,4 @@ Fig 3. error message
 
 Both clients of BuddyChat must be connected to the same network, whether Ethernet or wireless. They can even exist on two seperate machines, whether physical or virtual. It is important to avoid using a listening port that is used by default to avoid collisions.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
