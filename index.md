@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [CSCI 235 Ethics Paper](/pdf/CSCI_235.pdf)
 
--   **Class:** Procedural Programming  
+-   **Class:** CSCI 235 Procedural Programming  
 -   **Grade:** 100
 
 ### [CSCI 325 Ethics Paper](/pdf/CSCI_325.pdf)
 
--   **Class:** Object Oriented Porgramming
+-   **Class:** CSCI 325 Object Oriented Porgramming
 -   **Grade:** 100
 
 ### [CSCI 332 Ethics Paper](/pdf/CSCI_332.pdf)
 
--   **Class:** Applied Networking
+-   **Class:** CSCI 452 Applied Networking
 -   **Grade:** 100
 
 ---
@@ -51,18 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/CSCI301.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 301 Survey of Scripting Languages
+- **Grade:** 90
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/CSCI352.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 352 Cyber Defense
+- **Grade:** 85
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
