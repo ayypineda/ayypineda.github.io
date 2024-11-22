@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/CSCI301.pdf)
+### [2019 ArmorGames Breach](/pdf/CSCI301.pdf)
 
 - **Class:** CSCI 301 Survey of Scripting Languages
 - **Grade:** 90
 
 
-### [Presentation 2 Title](/pdf/CSCI352.pdf)
+### [Bitcoin Security Essentials](/pdf/CSCI352.pdf)
 
 - **Class:** CSCI 352 Cyber Defense
 - **Grade:** 85
