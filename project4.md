@@ -51,6 +51,4 @@ The program is meant to handle exactly 36 characters and it is not advised to us
 and will receive input whether capitalized or not. For keys, the user will enter a 6 digit code with each digit being unique and non-repeated
 from 0 and 5 (Ex. '012345' or '543210' or '345120'). 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
