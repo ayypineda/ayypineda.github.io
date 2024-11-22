@@ -45,7 +45,7 @@ For encryption, the user will enter a 36 character message exactly, and provide 
 Fig 1. encoder and decoder in action, as well as a test of 'ASDFGH' in correct order 
 with a provided key for expected results.
 
-## 3. Additional Considerations
+## Additional Considerations
 
 The program is meant to handle exactly 36 characters and it is not advised to use spaces or special characters. It is not case-sensitive
 and will receive input whether capitalized or not. For keys, the user will enter a 6 digit code with each digit being unique and non-repeated
