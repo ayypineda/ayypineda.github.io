@@ -44,6 +44,4 @@ Fig 4. The game is won
 
 A supported version of Java, preferrably an LTS, is needed to run this and MUST include JavaFX during installation. The package is considered the project, but one can navigate to the java file and click run on NetBeans and it will start. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
