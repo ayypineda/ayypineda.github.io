@@ -6,7 +6,7 @@ Battleship
 -   **Class:** CSCI 235 Procedural Programming
 -   **Grade:** 95
 -   **Language(s):** C++ 
--   **Source Code Repository:** [battleship/FinalProject](https://github.com/ayypineda/battleship/tree/e5e9b8afecdda8238d0051d2bc056532f8296252/FinalProject)  
+-   **Source Code Repository:** [battleship/FinalProject](https://github.com/ayypineda/battleship)  
     (Please [email me](mailto:apineda@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
