@@ -6,7 +6,7 @@ CSU Trail
 -   **Class:** CSCI 325 Object Oriented Programming 
 -   **Grade:** 95
 -   **Language(s):** Java, JavaFX
--   **Source Code Repository:** [csutrail/csutrail](https://github.com/ayypineda/csutrail/tree/4d8de47c37f74b624ac23afa47cc5b39667a505a/csutrail)  
+-   **Source Code Repository:** [csutrail/csutrail](https://github.com/ayypineda/csutrail/)  
     (Please [email me](mailto:apineda@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
