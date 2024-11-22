@@ -40,7 +40,7 @@ Fig 3. Some decisions will deal damage to the group
 ![screenshot](images/csu_trail_win.png)  
 Fig 4. The game is won
 
-## 3. Additional Considerations
+## Additional Considerations
 
 A supported version of Java, preferrably an LTS, is needed to run this and MUST include JavaFX during installation. The package is considered the project, but one can navigate to the java file and click run on NetBeans and it will start. 
 
